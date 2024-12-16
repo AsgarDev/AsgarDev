@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Kévin Giuga !
 
-I am a Full Stack Web Developer who loves teamwork and build cool stuffs 🛠️. 
+I am a Software Engineer who loves teamwork and build cool stuffs 🛠️. 
 <br/>
 
 [![Dev.to: technivek](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/technivek)
@@ -8,9 +8,8 @@ I am a Full Stack Web Developer who loves teamwork and build cool stuffs 🛠️
 [![GitHub](https://img.shields.io/github/followers/AsgarDev?label=follow&style=social)](https://github.com/AsgarDev)
 
 ### 🧐 More About Me:
-- 🌱 &nbsp; Currently learning TDD and Domain Driven Design.
+- 🌱 &nbsp; Currently learning Design Patterns and Domain Driven Design.
 - 🔭 &nbsp; Interested in DevOps topics.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AsgarDev?tab=repositories).
 - 📚 &nbsp; When I'm free, I go hiking with my family, I watch anime and science-fiction.
 - 📫 &nbsp; Let's get in touch&nbsp;! By [mail](mailto:giuga.kevin@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kevingiuga).
 - 📝 &nbsp; _"When your work speaks for itself, don't interrupt."_ &nbsp;&nbsp;Henry J. Kaiser
