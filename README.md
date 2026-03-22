@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kévin Giuga !
+## Hi 👋, I'm Kevin Giuga !
 
 I am a Software Engineer who loves teamwork and build cool stuffs 🛠️. 
 <br/>
@@ -23,7 +23,7 @@ I am a Software Engineer who loves teamwork and build cool stuffs 🛠️.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)&nbsp;
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)&nbsp;
